@@ -293,7 +293,8 @@
       "subtasks": [],
       "priority": "high",
       "createdAt": "2026-02-24T11:27:44.727Z",
-      "status": "review"
+      "status": "done",
+      "completedAt": "2026-02-24T21:12:58.365Z"
     }
   ],
   "projects": [
@@ -396,5 +397,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-02-24T21:12:52.922Z"
+  "lastUpdated": "2026-02-24T21:12:58.365Z"
 }
