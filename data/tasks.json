@@ -286,6 +286,12 @@
       "name": "Guides",
       "color": "#10b981",
       "icon": "📚"
+    },
+    {
+      "id": "marketing",
+      "name": "Mark",
+      "icon": "🚀",
+      "color": "#000000"
     }
   ],
   "activities": [
