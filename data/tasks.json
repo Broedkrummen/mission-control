@@ -304,6 +304,12 @@
       "name": "Researcher",
       "icon": "💡",
       "color": "#409c68"
+    },
+    {
+      "id": "data-analyst",
+      "name": "Prism",
+      "icon": "👩‍💻",
+      "color": "#de3f9c"
     }
   ],
   "activities": [
