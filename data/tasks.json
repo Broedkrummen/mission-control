@@ -322,6 +322,12 @@
       "name": "Orchestrator",
       "icon": "🦑",
       "color": "#bb3576"
+    },
+    {
+      "id": "seo",
+      "name": "SEO",
+      "icon": "🦹",
+      "color": "#47afbd"
     }
   ],
   "activities": [
