@@ -316,6 +316,12 @@
       "name": "Nexus",
       "icon": "🙌",
       "color": "#663d4f"
+    },
+    {
+      "id": "orchestrator",
+      "name": "Orchestrator",
+      "icon": "🦑",
+      "color": "#35bb6f"
     }
   ],
   "activities": [
