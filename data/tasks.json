@@ -349,6 +349,12 @@
       "name": "Content Writer",
       "icon": "📝",
       "color": "#6366f1"
+    },
+    {
+      "id": "website",
+      "name": "Website",
+      "icon": "🌐",
+      "color": "#2e307a"
     }
   ],
   "activities": [
