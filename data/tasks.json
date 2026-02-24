@@ -310,6 +310,12 @@
       "name": "Prism",
       "icon": "👩‍💻",
       "color": "#de3f9c"
+    },
+    {
+      "id": "research-aggregator",
+      "name": "Nexus",
+      "icon": "🙌",
+      "color": "#663d4f"
     }
   ],
   "activities": [
