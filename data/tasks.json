@@ -292,6 +292,12 @@
       "name": "Mark",
       "icon": "🚀",
       "color": "#000000"
+    },
+    {
+      "id": "devops",
+      "name": "Cody",
+      "icon": "🖥️",
+      "color": "#6366f1"
     }
   ],
   "activities": [
