@@ -328,6 +328,12 @@
       "name": "SEO",
       "icon": "🦹",
       "color": "#47afbd"
+    },
+    {
+      "id": "content",
+      "name": "Content Writer",
+      "icon": "📝",
+      "color": "#6366f1"
     }
   ],
   "activities": [
