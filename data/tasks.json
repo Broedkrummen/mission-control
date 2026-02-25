@@ -62,7 +62,9 @@
       ],
       "createdAt": "2026-01-01T00:00:00Z",
       "sortOrder": 0,
-      "completedAt": "2026-02-24T21:13:28.202Z"
+      "completedAt": "2026-02-24T21:13:28.202Z",
+      "archived": true,
+      "archivedAt": "2026-02-25T06:39:00.623Z"
     },
     {
       "id": "guide_user",
@@ -295,7 +297,9 @@
       "priority": "high",
       "createdAt": "2026-02-24T11:27:44.727Z",
       "status": "done",
-      "completedAt": "2026-02-24T21:12:58.365Z"
+      "completedAt": "2026-02-24T21:12:58.365Z",
+      "archived": true,
+      "archivedAt": "2026-02-25T06:39:00.623Z"
     }
   ],
   "projects": [
@@ -361,6 +365,12 @@
     }
   ],
   "activities": [
+    {
+      "type": "archive",
+      "actor": "Broedkrummen",
+      "task": "Archived 2 tasks",
+      "time": "just now"
+    },
     {
       "type": "moved",
       "actor": "Broedkrummen",
